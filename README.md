@@ -1,6 +1,8 @@
 # fswd-python
 
-Full-stack web development: material for the Python learning sessions
+Full-stack web development: material for the Python learning sessions:
++ https://hwrberlin.github.io/fswd/06-python.html
++ https://hwrberlin.github.io/fswd/08-python-pt2.html
 
 The `*.ipynb` files are the interactive Jupyter notebooks.
 
